@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Mar 29 04:33:10 PDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0162-7188-7208-0000013ede05 
+on database directory C:\Users\pratishtha\Desktop\web\RaceRunnersFinalprojectJava\Resources\RunnersDB with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+Loaded from file:/C:/Users/pratishtha/Desktop/web/RaceRunnersFinalprojectJava/Resources/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Users\pratishtha\Desktop\web\RaceRunnersFinalprojectJava
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=Resources
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Mar 29 04:33:11 PDT 2018:
+Shutting down instance a816c00e-0162-7188-7208-0000013ede05 on database directory C:\Users\pratishtha\Desktop\web\RaceRunnersFinalprojectJava\Resources\RunnersDB with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
